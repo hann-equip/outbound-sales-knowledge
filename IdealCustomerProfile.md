@@ -230,6 +230,7 @@ Las siguientes señales pueden indicar que una empresa necesitará cotizar una l
 - [ ]  Noticias relacionadas con el inicio de nuevas obras públicas o privadas por parte de pequeñas y medianas empresas.
 - [ ]  La empresa está buscando alquilar maquinaria de construcción para una obra.
 - [ ]  La empresa está buscando proveedores o aliados estratégicos para el inicio de una nueva obra.
+- [ ]  La empresa está o estuvo contratando un residente de obra en los últimos 3 meses. Indica que van a empezar a gestionar una nueva obra y requerirán materiales de construcción.
 
 ### 3.2 Proyectos públicos
 
