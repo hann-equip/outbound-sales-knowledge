@@ -234,6 +234,13 @@ Las siguientes señales pueden indicar que una empresa necesitará cotizar una l
 
 ### 3.2 Proyectos públicos
 
+<aside>
+🏗️
+
+**Modalidad de contratistas:** casi el 99% de los leads que trabajan con el Estado lo hacen en la modalidad de contratistas. Esto significa que en una sola obra participan varias empresas (por ejemplo, agrupadas en un consorcio). Al investigar una obra pública, el SDR debe identificar a todas las empresas que participan en ella, ya que cada una puede ser un lead y la compra de materiales puede estar a cargo de cualquiera de ellas.
+
+</aside>
+
 - [ ]  SEACE (Proveedores activos con el Estado)
 - [ ]  Página de proyectos de inversión del Estado.
 
