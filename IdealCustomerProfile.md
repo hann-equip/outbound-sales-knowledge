@@ -1,18 +1,16 @@
+# Ideal Customer Profile (ICP) — Equip
+
 ## Objetivo del documento
 
-<aside>
-
-Definir y documentar el **Ideal Customer Profile (ICP)** de Equip para que los equipos de marketing, ventas, producto y agentes de IA trabajen con una misma definición de cliente ideal. 
+> 🎯 Definir y documentar el **Ideal Customer Profile (ICP)** de Equip para que los equipos de marketing, ventas, producto y agentes de IA trabajen con una misma definición de cliente ideal.
 
 Este documento sirve como referencia para:
 
-- Diseñar y priorizar campañas de outbound.
-- Identificar los canales más adecuados para cada segmento.
-- Calificar cuentas y oportunidades comerciales.
-- Generación de lead scoring para los SDR’s y AE’s del equipo de outbound.
+- Conocer mejor el perfil de empresas que tienen más probabilidad de convertirse en clientes de alto valor.
+- Identificar los canales más adecuados para cada segmento de clientes.
+- Priorizar la contactabilidad de los leads.
+- Generar lead scoring para los SDRs y AEs del equipo de outbound.
 - Alinear los mensajes de marketing y ventas.
-
-</aside>
 
 ---
 
@@ -31,9 +29,9 @@ Este documento sirve como referencia para:
 
 ---
 
-## 1. Perfil de la cuenta ideal
+## 1. Perfil ideal de la empresa (Account)
 
-### 1.1 Industrias y tipos de empresa
+### 1.1 Industrias
 
 Equip debe priorizar empresas que participen en alguno de los siguientes sectores:
 
@@ -43,20 +41,22 @@ Equip debe priorizar empresas que participen en alguno de los siguientes sectore
 - Empresas de ingeniería y arquitectura.
 - Servicios generales de mantenimiento.
 
-**Servicios o actividades identificadas:**
+### 1.2 Servicios que ofrecen
+
+Servicios o actividades identificadas en el ICP:
 
 - Construcción de edificios completos.
 - Alquiler de bienes raíces.
 - Comercialización de bienes raíces.
 - Instalaciones eléctricas.
-- Servicio de impermeabilización
-- Servicios De Renovación Y Reparación De Edificios Comerciales
+- Servicio de impermeabilización.
+- Servicios de renovación y reparación de edificios comerciales.
 - Mejoramiento y ampliación de obras públicas.
-- Servicio de mantenimiento
+- Servicio de mantenimiento.
 - Soluciones integrales en procesos de soldadura de mantenimiento en general.
 - Consultoría en obras hidráulicas y electromecánicas.
 
-### 1.2 Ubicación geográfica
+### 1.3 Locación
 
 Ciudades y zonas prioritarias:
 
@@ -67,31 +67,25 @@ Ciudades y zonas prioritarias:
 - Piura.
 - Otras ciudades del Perú con actividad relevante de construcción e infraestructura.
 
-### 1.3 Tamaño de empresa y prioridad comercial
+### 1.4 Tier
 
-El análisis se basa en la carterización de QuickInsight y en negocios registrados en HubSpot. (Aún en evaluación….)
+El tier no debe definirse únicamente por el número de empleados. También se deben considerar la facturación, el margen, la recurrencia, el monto total del proyecto y la capacidad de compra consolidada. El análisis se basa en la carterización de QuickInsight y en negocios registrados en HubSpot.
 
-| Segmento | Prioridad | Observación comercial |
-| --- | --- | --- |
-| **Grande** | Alta | Genera el ticket promedio más alto y presenta la mejor recurrencia y cantidad de activos.
+| Tier | Prioridad | % del revenue | Valor económico por cuenta | Observación comercial |
+| --- | --- | --- | --- | --- |
+| **Grande** | Alta | 14.6% | $45.2k (el mayor) | Genera el ticket promedio más alto y presenta la mejor recurrencia y cantidad de activos. Genera 2.9X más que una micro. |
+| **Mediana** | Alta | 21.5% | $36k (2.º lugar) | Es el segundo mejor segmento por facturación promedio y aparece con frecuencia como lead caliente. |
+| **Pequeña** | Selectiva | 26.9% | $24k (3.er lugar) | Presenta menor ticket y menor retención que los segmentos grande y mediano. |
+| **Microempresa** | Baja, salvo que tenga un requerimiento que sobrepase el monto mínimo de compra | ~30% | $15.8k (el menor) | Presenta el menor ticket y la peor retención. En este segmento, la gerencia suele concentrar las funciones de compras y logística. |
 
-  • Aporta el 14.6% del revenue.
-  • Mayor valor económico por cuenta: $45.2k.
-  • Genera el 2.9X más que una micro. |
-| **Mediana** | Alta | Es el segundo mejor segmento por facturación promedio y aparece con frecuencia como lead caliente. 
+#### Criterios comerciales complementarios
 
-  • Genera el 21.5% del revenue.
-  • Es el 2do en valor económico por cuenta: $36k.  |
-| **Pequeña** | Selectiva | Presenta menor ticket y menor retención que los segmentos grande y mediano.
+- **Inmobiliarias con condominios por etapas:** prioridad máxima por su recurrencia, potencial de venta cruzada y posibilidad de mantener compras activas durante varios años.
+- **Constructoras medianas y grandes:** prioridad alta, porque concentran mayores tickets y utilidad; pocas ventas pueden representar una parte importante del revenue mensual, aunque sean más complejas de cerrar.
+- **Compra directa a fábrica:** registrar si la empresa cotiza directamente con fabricantes. Esta señal suele implicar menor margen para Equip y menor probabilidad de cierre, por lo que debe reducir la prioridad o requerir una propuesta de valor específica.
+- **Monto total del proyecto:** calificar la oportunidad por el valor total estimado de materiales, incluso cuando el despacho se realice en entregas parciales. Un volumen consolidado mejora el poder de negociación con fábrica y permite ofrecer condiciones especiales.
 
-  • Genera el 26.,9% del revenue.
-  • Es el 3ro en valor económico por cuenta: $24k. |
-| **Microempresa** | Baja / selectiva | Presenta el menor ticket y la peor retención. En este segmento, la gerencia suele concentrar las funciones de compras y logística.
-
-  • Genera el mayor % del revenue con cerca del 30%.
-  • Menor valor económico por cuenta: $15.8k |
-
-### 1.4 Áreas y funciones objetivo
+### 1.5 Áreas clave
 
 Las áreas con mayor relevancia para la prospección son:
 
@@ -99,140 +93,218 @@ Las áreas con mayor relevancia para la prospección son:
 - Compras o Procurement.
 - Gerencia, especialmente en microempresas.
 
-### 1.5 Tipo de obra o proyecto
+### 1.6 Tipo de obra
 
-Estos son los tipos de proyectos que más se repiten entre los clientes de Equip:
+En primer lugar existe una clasificación por inversión:
 
-- Proyectos residenciales.
+1. Privados.
+2. Públicos, únicamente aquellos que ya tienen la buena pro.
+
+Dentro de los proyectos privados, se debe priorizar especialmente a las inmobiliarias que desarrollan **condominios por etapas**, ya que permiten planificar compras recurrentes, anticipar categorías futuras y ampliar la venta cruzada durante la vida del proyecto.
+
+### 1.7 Categorías de proyectos
+
+#### A. Edificaciones
+
+Proyectos cuyo entregable principal es una edificación física, nueva, ampliada, remodelada o rehabilitada:
+
+- Vivienda unifamiliar.
+- Vivienda multifamiliar.
+- Condominios.
+- Edificios residenciales.
+- Oficinas.
+- Centros comerciales.
+- Retail.
+- Hoteles.
+- Clínicas y hospitales.
+- Colegios, institutos y universidades.
+- Edificios institucionales.
+- Almacenes.
+- Centros logísticos.
+- Instalaciones deportivas.
+- Restaurantes.
+- Otros edificios comerciales o de servicios.
+
+#### B. Infraestructura
+
+Proyectos cuyo objetivo principal es **crear, ampliar o mejorar infraestructura física**, especialmente infraestructura pública o de gran escala:
+
+- Carreteras.
+- Intercambios viales.
+- Metro / transporte.
+- Aeropuertos.
+- Puertos.
+- Obras de saneamiento.
+- Redes de agua potable.
+- Alcantarillado.
+- Sistemas de riego.
+- Canales.
+- Infraestructura hidráulica.
+- Electrificación.
+- Infraestructura de telecomunicaciones.
+- Pistas y veredas.
+- Infraestructura educativa pública.
+- Infraestructura hospitalaria pública.
+
+#### C. Inmobiliario
+
+Proyectos activos que están siendo ejecutados directamente por la inmobiliaria:
+
+- Desarrollo de vivienda multifamiliar.
+- Condominios.
+- Urbanizaciones.
+- Edificios residenciales.
+- Proyectos de oficinas.
 - Proyectos comerciales.
-- Proyectos institucionales: colegios, universidades y otros.
-- Proyecto hotelero y de hospedaje.
-- Infraestructura vial.
-- Saneamiento urbano y rural.
-- Obras civiles.
-- Otros proyectos con consumo recurrente de materiales de construcción.
+- Proyectos de uso mixto.
+- Hoteles.
 
-### 1.6 Certificaciones y requisitos técnicos
+#### Requisitos técnicos transversales
 
 - Cumplimiento de Normas Técnicas Peruanas (NTP).
-- Características técnicas específicas del producto.
-- Estos requisitos son especialmente relevantes en obras públicas.
+- Características técnicas específicas del producto, especialmente en obras públicas.
+- En productos especializados o cambios de marca, considerar muestra y validación en campo por parte del equipo técnico.
 
-### 1.7 Etapa de la obra
+#### Keywords para búsqueda y segmentación
 
-La etapa actual de la obra es el filtro principal para que un SDR priorice una cuenta.
+`Inmobiliaria` · `Departamentos` · `Edificios` · `Terrenos` · `Proyecto inmobiliario` · `Viviendas` · `Arquitectura` · `Consorcios` · `Gestión de proyectos`
 
-La página identifica como prioridad las obras en etapas como:
+### 1.8 Necesidades de materiales por etapa de obra
 
-- Demolición.
-- Excavación o movimiento de tierras.
-- Cimentación.
-- Casco estructural.
-- Acabados.
-- Otras etapas con compras de materiales previstas en el corto plazo.
+Hay cuatro etapas clave por las que pasa toda obra de construcción, donde Equip puede añadir valor:
 
-<aside>
-🟠
+1. Excavación o movimiento de tierras.
+2. Cimentación.
+3. Casco estructural.
+4. Acabados.
 
-**Pendiente de completar:** definir el listado oficial y el orden de prioridad de todas las etapas de obra.
+#### Relación entre etapa, necesidad y oportunidad comercial
 
-</aside>
+| Etapa | Oportunidad comercial |
+| --- | --- |
+| **Excavación y cimentación** | Priorizar acero y cemento. |
+| **Casco estructural e instalaciones** | Anticipar tuberías, cables y otras categorías asociadas al avance de la obra. |
+| **Acabados** | Iniciar la cotización desde el piloto de ventas o desde las primeras señales de especificación, antes de que llegue el requerimiento formal. Para estos materiales normalmente el cliente está interesado en recibir una muestra. |
 
-### 1.8 Keywords para búsqueda y segmentación
-
-- Inmobiliaria.
-- Departamentos.
-- Edificios.
-- Terrenos.
-- Proyecto inmobiliario.
-- Viviendas.
-- Arquitectura.
-- Consorcios.
-- Gestión de proyectos.
+> 💡 Los **aditivos** son la única categoría de materiales que aplica para todas las etapas de una obra.
 
 ---
 
-## 2. Perfil del comprador ideal
+## 2. Perfil de los buyer personas
 
-### 2.1 Cargos objetivo
+### 2.1 Cargos / Posiciones
 
 | Cargo o perfil | Rol habitual en la compra |
 | --- | --- |
 | Asistente o Analista de Logística | Apoya la gestión de pedidos y el seguimiento de compras. |
 | Jefe de Logística | Lidera el abastecimiento y la coordinación de entregas. |
 | Coordinador de Logística | Coordina pedidos, proveedores y tiempos de entrega. |
-| Residente de Obra | Identifica necesidades de materiales desde la ejecución del proyecto. |
+| Residente de Obra o Ingeniero Residente | Identifica necesidades de materiales desde la ejecución del proyecto. |
 | Encargado de Compras | Solicita cotizaciones y compara alternativas. |
-| Encargado de Costos y Presupuestos | Evalúa el impacto económico de la compra. |
+| Analista de Costos y Presupuestos | Evalúa el impacto económico de la compra. |
 | Ingeniero de Oficina Técnica | Evalúa requerimientos y especificaciones técnicas. |
 | Jefe de Proyectos | Supervisa el avance y las necesidades del proyecto. |
 
-### 2.2 Seniority
+### 2.2 Nivel de seniority
 
 - Desde perfiles junior hasta posiciones C-level en microempresas.
 - El nivel de seniority puede variar según el tamaño y la estructura de la empresa.
+- En empresas grandes y medianas suelen existir roles especializados; en empresas pequeñas y microempresas, la gerencia puede concentrar Compras, Logística y la aprobación final.
 
-### 2.3 Responsabilidades del comprador
+### 2.3 Roles dentro del proceso de compra
+
+| Rol | Descripción | Área o persona habitual |
+| --- | --- | --- |
+| **Champion** | Personas que se ven beneficiadas de manera directa con el servicio de asesoría de Equip. | Asistente o coordinador de logística; Analista de Compras. |
+| **Decision maker** | Personas que aprueban la cotización. | Gerente general; Jefe o líder del área de compras o logística. |
+| **Evaluadores** | Personas que evalúan si la cotización tiene alguna observación técnica o financiera. | Ingeniero de Obra; Arquitecto; otros especialistas según la categoría del proyecto y del material. |
+| **Influenciador** | — | Ingeniero especialista. |
+
+#### Mapa mínimo de roles que se debe identificar en cada cuenta
+
+1. **Compras:** necesita opciones, solicita cotizaciones y compara alternativas.
+2. **Gerencia:** aprueba las compras de mayor monto y las condiciones comerciales.
+3. **Ingeniero de obra o arquitecto:** valida la especificación técnica y puede frenar un cambio de marca si el producto no cuenta con aprobación o prueba en campo.
+
+> Cuando se proponga cambiar de marca, la muestra y la validación en campo deben considerarse parte de la venta, especialmente si la decisión depende del ingeniero de obra.
+
+### 2.4 Responsabilidades y objetivos
 
 La persona objetivo suele encargarse de:
 
 - Realizar pedidos de materiales y servicios a subcontratar.
-- Elaborar cuadros comparativos considerando costo, calidad y tiempo de entrega.
+- Elaborar cuadros comparativos considerando proveedores, costo, calidad y tiempo de entrega.
 - Dar seguimiento a las órdenes de compra y a los servicios contratados.
+- Evitar quiebres de abastecimiento y mantener el avance de la obra.
+- Conseguir alternativas que equilibren precio, cumplimiento técnico y rapidez de entrega.
+- Consolidar necesidades para aprovechar mejores condiciones comerciales y entregas parciales.
 
-### 2.4 Roles dentro de la decisión de compra
-
-| Rol | Área o persona habitual |
-| --- | --- |
-| **Champion** | Asistente o coordinador de logística. |
-| **Decision maker** | Gerente general y el gerente de logística o de compras. |
-| **Evaluadores** | Finanzas y equipo técnico de obra. |
-
-### 2.5 Modalidad de compra
+La modalidad de compra puede ser:
 
 - Compra al contado.
 - Compra al crédito, previa calificación interna por el área de Finanzas.
 
-### 2.6 Necesidades y puntos de dolor
+### 2.5 Necesidades y puntos de dolor
 
 - Comprar materiales conforme avanza la obra y evitar quiebres de abastecimiento.
+- Recibir una entrega rápida y confiable: un quiebre de stock puede detener la obra, generar costos de mano de obra o producir penalidades.
+- Equilibrar precio, cumplimiento de la especificación técnica y tiempo de entrega; el cliente no evalúa el precio de forma aislada.
 - Encontrar alternativas de materiales más económicos o con beneficios técnicos para la obra.
-- Comparar proveedores en costo, calidad y tiempo de entrega.
-- Tienen problemas al encontrar proveedores que ofrezcan materiales en diferentes cantidades y marcas.
-- Necesitan que los materiales cumplan con la ficha técnica otorgada por el encargado del proyecto o de la obra.
-- En la mayoría de los casos están ajustados con los tiempos. Por ello, preguntan cuántos días va a demorar la entrega.
+- Encontrar proveedores que ofrezcan materiales en diferentes cantidades y marcas.
+- Asegurar que los materiales cumplan con la ficha técnica otorgada por el encargado del proyecto o de la obra.
+- Resolver requerimientos con plazos ajustados y conocer cuántos días demorará la entrega.
+- Validar muestras y cambios de marca en campo cuando la aprobación depende del ingeniero o arquitecto.
+- Todo lo necesitan "para ayer", es decir, siempre están cotizando contra el tiempo.
 
-### 2.7 Canales y alternativas actuales
+### 2.6 Canales y alternativas actuales
 
 **Canales preferidos de comunicación:**
 
 - Llamada.
 - WhatsApp.
 - Visita presencial.
-- Correo electrónico en menor medida.
+- Correo electrónico, en menor medida.
 
-**Alternativa principal:**
+**Alternativas actuales:**
 
 - Cotizar directamente con otros distribuidores.
-- En caso de requerimientos muy pequeños, suelen comprar directamente a ferreterías o subdistribuidores por temas de cantidad y tiempo.
+- Comprar directamente a fábricas cuando el volumen del proyecto lo permite.
+- Para requerimientos muy pequeños, comprar directamente a ferreterías o subdistribuidores por temas de cantidad y tiempo.
 
 ---
 
 ## 3. Señales de compra
 
-Las siguientes señales pueden indicar que una empresa necesitará cotizar una lista de materiales en las próximas semanas.
+Las siguientes señales ayudan a identificar cuentas con una necesidad probable de cotizar materiales en las próximas semanas o meses. Para calificar la señal se deben registrar la etapa de obra, las categorías requeridas, el monto total estimado, la urgencia y los roles involucrados.
 
 ### 3.1 Proyectos privados
 
-- [ ]  La inmobiliaria o empresa se encuentra en demolición, excavación, movimiento de tierras, cimentación u otra etapa temprana de obra.
-- [ ]  La empresa ya cuenta con una lista de materiales y tiene una compra prevista en el corto plazo: desde inmediata hasta aproximadamente 1–2 meses.
-- [ ]  Constructoras que hayan obtenido una licencia de edificación para una nueva obra durante los últimos 6 meses. Conexión directa con la información pública que ofrece cada municipalidad.
-- [ ]  Noticias relacionadas con el inicio de nuevas obras públicas o privadas por parte de pequeñas y medianas empresas.
-- [ ]  La empresa está buscando alquilar maquinaria de construcción para una obra.
-- [ ]  La empresa está buscando proveedores o aliados estratégicos para el inicio de una nueva obra.
-- [ ]  La empresa está o estuvo contratando un residente de obra en los últimos 3 meses. Indica que van a empezar a gestionar una nueva obra y requerirán materiales de construcción.
+#### Variables que se deben identificar
+
+- Tipo de proyecto: inmobiliario, edificación, infraestructura privada u otro tipo de obra.
+- Si se trata de un condominio por etapas y el número de etapas previstas.
+- Etapa actual: demolición, excavación, movimiento de tierras, cimentación, casco estructural, instalaciones o acabados.
+- Categorías que se necesitarán en la etapa actual y categorías complementarias que se puedan anticipar.
+- Monto total estimado del proyecto y monto aproximado de materiales, aunque las entregas sean parciales.
+- Fecha objetivo de compra, urgencia de entrega y riesgo de quiebre de stock.
+- Si la empresa cotiza directamente con fábrica y qué ventaja puede ofrecer Equip para competir.
+- Roles involucrados: Compras, Gerencia e Ingeniero de obra o Arquitecto.
+
+#### Señales observables
+
+- [ ] La inmobiliaria o empresa se encuentra en demolición, excavación, movimiento de tierras, cimentación u otra etapa temprana de obra.
+- [ ] La empresa ya cuenta con una lista de materiales y tiene una compra prevista en el corto plazo: desde inmediata hasta aproximadamente 1–2 meses.
+- [ ] Una constructora obtuvo una licencia de edificación para una nueva obra durante los últimos 6 meses (conexión directa con la información pública que ofrece cada municipalidad).
+- [ ] Existen noticias relacionadas con el inicio de nuevas obras privadas por parte de pequeñas, medianas o grandes empresas.
+- [ ] La empresa está buscando alquilar maquinaria de construcción para una obra.
+- [ ] La empresa está buscando proveedores o aliados estratégicos para el inicio de una nueva obra.
+- [ ] La inmobiliaria desarrolla un condominio por etapas y existe una oportunidad de compras recurrentes o venta cruzada.
+- [ ] Se puede anticipar una categoría por la etapa de obra, incluso antes de recibir el requerimiento formal.
+- [ ] La empresa está o estuvo contratando un residente de obra en los últimos 3 meses. Indica que van a empezar a gestionar una nueva obra y requerirán materiales de construcción.
 
 ### 3.2 Proyectos públicos
+
+En proyectos públicos es posible identificar con mayor precisión el contexto de la obra, la etapa, el contratista y las categorías de materiales que se necesitarán.
 
 <aside>
 🏗️
@@ -241,63 +313,20 @@ Las siguientes señales pueden indicar que una empresa necesitará cotizar una l
 
 </aside>
 
-- [ ]  SEACE (Proveedores activos con el Estado)
-- [ ]  Página de proyectos de inversión del Estado.
+#### Variables que se deben identificar
 
----
+- Estado de la adjudicación: priorizar proyectos que ya tengan la buena pro; excluir los que todavía estén en etapa de convocatoria o evaluación.
+- Entidad contratante, contratista o consorcio responsable.
+- Tipo de infraestructura: carretera, saneamiento, agua, riego, infraestructura educativa, salud, transporte u otra.
+- Monto total del proyecto y alcance de las partidas relevantes para Equip.
+- Etapa actual de ejecución y fecha estimada de las próximas compras.
+- Lista de materiales o categorías potenciales por partida y etapa.
+- Requisitos técnicos, NTP, marcas especificadas y posibilidad de presentar muestras o equivalencias.
+- Roles de Compras, Gerencia y equipo técnico que participan en la aprobación.
 
-## 4. Criterios de priorización comercial
+#### Fuentes y señales observables
 
-Una cuenta debería recibir mayor prioridad cuando cumple varias de estas condiciones:
-
-- Pertenece a una industria o tipo de empresa objetivo.
-- Es mediana o grande, o presenta una oportunidad excepcional de compra.
-- Tiene una obra activa y la etapa del proyecto es conocida.
-- Cuenta con una necesidad de materiales para los próximos 0–2 meses.
-- Se puede identificar al responsable de Logística, Compras o Abastecimiento.
-- Existe acceso a un champion y posibilidad de llegar a Gerencia.
-- El proyecto requiere comparar proveedores por costo, calidad y tiempo de entrega.
-
-<aside>
-🎯
-
-**Antes de avanzar, el SDR debe confirmar como mínimo:**
-
-1. Qué tipo de proyecto está ejecutando la empresa.
-2. En qué etapa se encuentra la obra.
-3. Qué materiales o servicios necesita.
-4. Cuándo planea realizar la compra.
-5. Quién participa en la decisión y evaluación.
-</aside>
-
----
-
-## 5. Criterios de exclusión
-
-Excluir o despriorizar durante la prospección:
-
-- Subdistribuidores.
-- Proyectos personales o remodelaciones pequeñas.
-- Viviendas unifamiliares simples.
-- Proyectos cuya necesidad sea demasiado inmediata para que Equip Construye pueda resolverla operativamente.
-- Proyectos del Estado que todavía no tienen la buena pro.
-- Proyectos que ya se encuentren cerrando la obra.
-- Productos muy especializados para ciertas industrias, como minería. Esta línea queda como oportunidad para probar más adelante.
-- Que no estén activos en SUNAT.
-
----
-
-## 6. Acción comercial
-
-El éxito de las campañas de outbound para el ICP de construcción para el negocio de Equip se mide por el número de:
-
-- Listas de materiales capturadas.
-- Visitas a obras agendadas.
-
----
-
-## 7. Puntos pendientes
-
-- [ ]  Analizar con el equipo la clasificación de tamaño de clientes según el volúmen de facturación, % de margen y frecuencia de compra
-- [ ]  Validar y documentar el acceso a bases de licencias de edificación y permisos de obras privadas.
-- [ ]  Revisar periódicamente los segmentos, ciudades y señales de compra con datos de conversión, ticket y retención.
+- [ ] SEACE: proveedores activos con el Estado y procesos que ya cuentan con buena pro.
+- [ ] Página de proyectos de inversión del Estado.
+- [ ] Inicio de ejecución, avance de obra o nuevas partidas activas.
+- [ ] Bases de datos de proyectos que tienen el beneficio del fondo MiVivienda o techo propio en Perú.
