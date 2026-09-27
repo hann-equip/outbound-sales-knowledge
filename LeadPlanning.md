@@ -81,3 +81,67 @@ Links importantes para tu research:
 - Para ver la ejecución de la obra y el monto actualizado de inversión: https://ofi5.mef.gob.pe/invierte/consultapublica/consultainversiones
 
 
+## Registro en HubSpot: notas de Proyectos activos y Señales comerciales
+
+Las secciones **Proyectos / obras activas** y **Señales comerciales (señales de compra)** no se registran en campos de HubSpot. Se añaden como **notas separadas** en el Lead (asociadas también a la Empresa), con un formato organizado y fácil de leer para que el SDR las revise rápido antes de llamar. Esto aplica a ambas plantillas (proyectos privados y públicos).
+
+Reglas:
+
+- **Una nota por cada proyecto u obra activa.** No mezclar varios proyectos en una misma nota.
+- **Una nota aparte para las señales comerciales.**
+- La primera línea de la nota es un título en mayúsculas que indica el tipo de nota y el nombre del proyecto.
+- Usar siempre los mismos campos y en el mismo orden, uno por línea. Si no hay información, escribir "sin dato"; no suponer datos.
+- Incluir la fecha de la investigación y la fuente (link) de cada dato clave.
+- Si la información cambia, crear una nota nueva con la fecha actualizada en lugar de editar la anterior.
+
+Formato de nota: proyecto privado
+
+```
+PROYECTO ACTIVO – [Nombre del proyecto]
+Fecha de investigación: [dd/mm/aaaa]
+
+• Tipo de obra: Privada
+• Categoría de la obra: [p. ej. Edificación residencial]
+• Ubicación: [distrito, provincia, departamento]
+• Etapa de la obra: [p. ej. Casco estructural]
+• Fecha de inicio: [dd/mm/aaaa o sin dato]
+• Categorías potenciales de materiales: [p. ej. drywall, sanitarias, eléctricas]
+• Condominio por etapas: [Sí (n.º de etapas) / No / sin dato]
+
+Fuentes: [links]
+```
+
+Formato de nota: proyecto público
+
+```
+PROYECTO ACTIVO – [Nombre del proyecto]
+Fecha de investigación: [dd/mm/aaaa]
+
+• Tipo de obra: Pública con buena pro
+• Tipo de servicio: [p. ej. Ejecución de obra]
+• Categoría de la obra: [p. ej. Salud]
+• Ubicación: [distrito, provincia, departamento]
+• Etapa de la obra: [p. ej. Cimentación]
+• CUI: [código]
+• % de avance de la obra: [xx % a mm/aaaa]
+• Monto de inversión o presupuesto: [S/ ...]
+• Consorcio / empresas participantes: [nombres y RUC]
+
+Fuentes: [links OSCE / SEACE / MEF]
+```
+
+Formato de nota: señales comerciales
+
+```
+SEÑALES COMERCIALES – [Nombre de la empresa]
+Fecha de investigación: [dd/mm/aaaa]
+
+• Cotizaciones previas en CRM: [n.º, fechas y montos o sin dato]
+• Conversaciones en Respond.io: [resumen o sin dato]
+• Otros proveedores: [nombres o sin dato]
+• Noticias / publicaciones relevantes: [resumen + fecha]
+• Actividad en redes sociales: [resumen + fecha]
+• Otros partners y aliados estratégicos: [nombres o sin dato]
+
+Fuentes: [links]
+```
