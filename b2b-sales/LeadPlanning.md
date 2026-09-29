@@ -75,6 +75,7 @@ Al momento de añadir esta información al Google Sheet y al CRM, es importante 
 - Nunca borres o cambies un campo que ya está completado en HubSpot a menos que estés seguro que la información está desactualizada según tus hallazgos.
 - Todos los leads que pasen por el proceso de lead enrichment o lead planning deben tener número de teléfono, porque el primer contacto del SDR es por cold calling.
 - Cuando no sepas el correo, el cargo, posición, área o número de teléfono, puedes usar la versión gratuita de Clay y SalesQL.
+- El lead planning sólo aplica para leads del canal outbound, es decir aquellos que tengan alguno de estos valores en el campo origen: "
 
 
 # Recursos Adicionales
