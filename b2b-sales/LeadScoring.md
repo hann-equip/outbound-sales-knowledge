@@ -26,7 +26,7 @@ Como una manera de aumentar la precisión del puntuje, puedes considerar las sig
 - YouTube
 - Otras redes sociales
 
-Mientras más se parezca el lead a la descripción del ICP y a los top clientes de Equip que están registrados en el file "TopCustomerList", mayor puntaje tendrá, mientras menos similitudes menos puntuje.
+Mientras más se parezca el lead a la descripción del ICP y a los top clijentes de Equip que están registrados en el file "TopCustomerList", mayor puntaje tendrá, mientras menos similitudes menos puntuje.
 
 # Final considerations
 
