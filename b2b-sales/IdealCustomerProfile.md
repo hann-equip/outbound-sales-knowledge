@@ -7,9 +7,9 @@
 Este documento sirve como referencia para:
 
 - Conocer mejor el perfil de empresas que tienen más probabilidad de convertirse en clientes de alto valor.
-- Identificar los canales más adecuados para cada segmento de clientes.
+- Identificar los canales más adecuados para el contacto de leads outbound.
 - Priorizar la contactabilidad de los leads.
-- Generar lead scoring para los SDRs y AEs del equipo de outbound.
+- Generar lead scoring para los SDRs y AEs sepan a quién llamar y porqué.
 - Alinear los mensajes de marketing y ventas.
 
 ---
@@ -132,14 +132,11 @@ Proyectos cuyo objetivo principal es **crear, ampliar o mejorar infraestructura 
 - Carreteras.
 - Intercambios viales.
 - Metro / transporte.
-- Aeropuertos.
-- Puertos.
-- Obras de saneamiento.
+- Obras de infraestructura hidráulica / saneamiento.
 - Redes de agua potable.
 - Alcantarillado.
 - Sistemas de riego.
 - Canales.
-- Infraestructura hidráulica.
 - Electrificación.
 - Infraestructura de telecomunicaciones.
 - Pistas y veredas.
@@ -158,6 +155,11 @@ Proyectos activos que están siendo ejecutados directamente por la inmobiliaria:
 - Proyectos comerciales.
 - Proyectos de uso mixto.
 - Hoteles.
+
+#### D. Ingeniería
+- Proyectos de electromecánica.
+- Mantenimiento o reparación de 
+
 
 #### Requisitos técnicos transversales
 
@@ -196,7 +198,7 @@ Hay cuatro etapas clave por las que pasa toda obra de construcción, donde Equip
 
 | Cargo o perfil | Rol habitual en la compra |
 | --- | --- |
-| Asistente o Analista de Logística | Apoya la gestión de pedidos y el seguimiento de compras. |
+| Asistente o Analista de Logística o Especialista de Logística | Apoya la gestión de pedidos y el seguimiento de compras. |
 | Jefe de Logística | Lidera el abastecimiento y la coordinación de entregas. |
 | Coordinador de Logística | Coordina pedidos, proveedores y tiempos de entrega. |
 | Residente de Obra o Ingeniero Residente | Identifica necesidades de materiales desde la ejecución del proyecto. |
@@ -204,6 +206,7 @@ Hay cuatro etapas clave por las que pasa toda obra de construcción, donde Equip
 | Analista de Costos y Presupuestos | Evalúa el impacto económico de la compra. |
 | Ingeniero de Oficina Técnica | Evalúa requerimientos y especificaciones técnicas. |
 | Jefe de Proyectos | Supervisa el avance y las necesidades del proyecto. |
+| Asistente Administrativo | Es un rol junior que normmalmente se encarga de las documentación de los proyectos |
 
 ### 2.2 Nivel de seniority
 
@@ -319,7 +322,9 @@ En proyectos públicos es posible identificar con mayor precisión el contexto d
 - Entidad contratante, contratista o consorcio responsable.
 - Tipo de infraestructura: carretera, saneamiento, agua, riego, infraestructura educativa, salud, transporte u otra.
 - Monto total del proyecto y alcance de las partidas relevantes para Equip.
-- Etapa actual de ejecución y fecha estimada de las próximas compras.
+- Fecha de inicio y fecha de culminación o entrega de la obra.
+- Si ya está por encima del 95% de avance de obra y próximo a culminar no tiene mucho sentido priorizar su contacto.
+- Proyectos que se encuentren en la etapa de procura
 - Lista de materiales o categorías potenciales por partida y etapa.
 - Requisitos técnicos, NTP, marcas especificadas y posibilidad de presentar muestras o equivalencias.
 - Roles de Compras, Gerencia y equipo técnico que participan en la aprobación.
