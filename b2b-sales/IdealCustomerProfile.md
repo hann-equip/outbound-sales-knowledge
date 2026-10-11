@@ -91,6 +91,7 @@ Las áreas con mayor relevancia para la prospección son:
 
 - Logística y abastecimiento.
 - Compras o Procurement.
+- Área de Proyectos / Mantenimiento de Infraestructura.
 - Gerencia, especialmente en microempresas.
 
 ### 1.6 Tipo de obra
@@ -203,7 +204,7 @@ Hay cuatro etapas clave por las que pasa toda obra de construcción, donde Equip
 | Encargado de Compras | Solicita cotizaciones y compara alternativas. |
 | Analista de Costos y Presupuestos | Evalúa el impacto económico de la compra. |
 | Ingeniero de Oficina Técnica | Evalúa requerimientos y especificaciones técnicas. |
-| Jefe de Proyectos | Supervisa el avance y las necesidades del proyecto. |
+| Jefe de Proyectos de Infraestructura | Encargado del desarrollo integral del proyecto tanto en nueva infraestructura como en el mantenimiento constante / preventivo de infraestructura existente para tiendas comerciales o centros de atención al público. |
 
 ### 2.2 Nivel de seniority
 
