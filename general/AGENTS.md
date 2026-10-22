@@ -14,7 +14,7 @@ Este repositorio documenta cómo Equip vende, posiciona y opera. No es un codeba
 
 | Carpeta | Usar cuando | Documentos actuales |
 | --- | --- | --- |
-| `b2b-sales/` | ICP, priorización de leads, research de cuentas, scoring, lookalikes | `IdealCustomerProfile.md`, `LeadPlanning.md`, `LeadScoring.md`, `TopCustomerList.md` |
+| `b2b-sales/` | ICP, priorización de leads, research de cuentas, scoring, lookalikes | `IdealCustomerProfile.md`, `LeadCategoriesByTiers.md`, `LeadPlanning.md`, `LeadScoring.md`, `TopCustomerList.md` |
 | `product-marketing/` | Mensajes de producto, campañas, posicionamiento, one-pagers | Aún vacío; ver el README de la carpeta |
 | `general/` | Instrucciones para agentes, glosario, procesos compartidos entre equipos | Este archivo |
 
