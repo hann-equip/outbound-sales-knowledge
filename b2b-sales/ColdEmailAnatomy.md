@@ -88,13 +88,13 @@ Listado de plantillas referenciales de correos que tuvieron un % de éxito o que
 
 > Subject line: Proveedor de materiales para {Nombre_del_proyecto}
 > Lucía, buen día!
-> Te saluda Valeria, asesora comercial en Equip.
+> Te saluda Hann Vásquez, asesor comercial en Equip.
 > Me gustaría poder conocer un poco más sobre las actuales obras vigentes que tienen en la región de Apurimac, al ser proyectos relacionados con mejoras en el servicio de agua para riego, creo que puede existir una interesante sinergia con la línea de tuberías que actualmente ofrecemos en Equip.
 > Si actualmente gestionas el proceso de compra de materiales, Equip puede ayudarte de la siguiente manera:
 > - Cotizar toda tu lista de materiales con envio incluído a Lima o provincia.
 > - Opciones variadas de marcas y productos certificados.
 > - Líneas de crédito previa calificación.
-> Ya me cuentas. Estaré súper atenta.
+> Caso contrario agradecería mucho que puedas compartir esto con la persona correcta dentro de {Company_name}
 > Saludos,
 
 
