@@ -10,14 +10,14 @@ Para ambas plantillas hemos definido las siguientes secciones:
 - Información Básica del lead
 - Proyectos / obras activas
 - Prospección por contactos	
-- Señales comerciales
+- Señales de potencial de compra.
 
 ## Flujo operativo
 
 Siempre debes empezar hacer tu research en este orden:
 - Datos claves de la empresa
 - Datos claves de los proyectos en ejecución
-- Buyer personas
+- Información de contacto del buyer persona o los contactos a los que se deben llamar.
 
 # Empresa
 A nivel de empresa, lo que más nos importan saber antes de llamar es lo siguiente:
@@ -71,12 +71,17 @@ De estos 3 tipos de buyer personas, necesitamos encontrar su nombre completo, n�
 
 # Reglas
 Al momento de añadir esta información al Google Sheet y al CRM, es importante seguir las siguientes reglas:
-- Cada campo solicitado como parte del lead planning debería ser lo suficientemente resumida para que el SDR lo puede leer en una pasada. Ejemplo de cargo objetivo, en lugar de colocar esto "Champion contratista/compras de obra + Decision maker gerente general", podrías colocar esto "Gerente General (Decision Maker), esto se lee mejor y evita cualquier confusión.
-- Nunca borres o cambies un campo que ya está completado en HubSpot a menos que estés seguro que la información está desactualizada según tus hallazgos.
-- Todos los leads que pasen por el proceso de lead enrichment o lead planning deben tener número de teléfono, porque el primer contacto del SDR es por cold calling.
-- Cuando no sepas el correo, el cargo, posición, área o número de teléfono, puedes usar la versión gratuita de Clay y SalesQL.
-- El lead planning sólo aplica para leads del canal outbound, es decir aquellos que tengan alguno de estos valores en el campo origen: "
 
+- Para el proceso de lead planning es obligatorio que como resultado el lead tenga un número de teléfono válido con cuenta de WhatsApp validada, caso contrario se intenta buscar a más contactos nuevos que si lo tengan. En el peor de los casos se completa con el correo y el perfil de LinkedIn.
+
+- Siempre que encuentres un nuevo contacto que haga fit con el buyer persona de Equip es importante que los asocies al contacto principal que está asociado al lead, esto es vital para que el SDR cuando intente ver el detalle del lead desde la app mobile le pueda aparecer todos los contactos posible para prospectar ese lead o empresa. Es decir, no basta con asociar el nuevo contacto encontrado al lead sino también asociarlo al contacto principal ya existente.
+
+- Para que un contacto sea prioritario debe compartir las características del Tier 1 y Tier 2, todo el detalle está en el archivo de LeadCategoriesByTiers.md
+
+- Para este proceso puedes usar los créditos de pago de Unify para encontrar un número, correo o LinkedIn. Pero también puedes hacer una búsqueda en LinkedIn, ya que en ciertas publicaciones o perfiles se puede encontrar el número del contacto.
+
+
+- Si el lead es de origen LOST o NO CALIFICADO es obligatorio revisar en Respond.io si existe información relevante para completar los campos de Categorías de productos en los que estuvieron interesados y el motivo de no calificado según los chats.
 
 # Recursos Adicionales
 
