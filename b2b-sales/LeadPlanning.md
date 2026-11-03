@@ -67,7 +67,7 @@ A nivel de buyer persona, siempre recuerda que nuestro objetivo primordial es te
     - Decision maker: Gerente o Jefe de Logística o el mismo gerente general o el residente de obra.
     - Evaluador: Finanzas,operaciones. También debes revisar el ICP.
 
-De estos 3 tipos de buyer personas, necesitamos encontrar su nombre completo, número, correo, LinkedIn y el cargo / ocupación que tiene actualmente.
+De estos 3 tipos de buyer personas, necesitamos encontrar su nombre completo, número de teléfono con una cuenta de WhatsApp disponible, correo y LinkedIn de manera opcional.
 
 # Reglas
 Al momento de añadir esta información al Google Sheet y al CRM, es importante seguir las siguientes reglas:

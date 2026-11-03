@@ -279,7 +279,7 @@ La modalidad de compra puede ser:
 
 ## 3. Señales de compra
 
-Las siguientes señales ayudan a identificar cuentas con una necesidad probable de cotizar materiales en las próximas semanas o meses. Para calificar la señal se deben registrar la etapa de obra, las categorías requeridas, el monto total estimado, la urgencia y los roles involucrados.
+Las siguientes señales ayudan a identificar cuentas con una necesidad probable de cotizar materiales en las próximas semanas o meses. Estas señales pueden ser detectadas mediante una búsqueda en LinkedIn, sitio web de la misma empresa, portal de proveedores del Estado o en cualquier otra red social o portal de noticias.
 
 ### 3.1 Proyectos privados
 
@@ -296,7 +296,7 @@ Las siguientes señales ayudan a identificar cuentas con una necesidad probable 
 
 #### Señales observables
 
-- [ ] La inmobiliaria o empresa se encuentra en demolición, excavación, movimiento de tierras, cimentación u otra etapa temprana de obra.
+- [ ] La inmobiliaria o empresa se encuentra en la etapa de demolición, excavación, cimentación, movimiento de tierras o iniciando la etapa de casco / estructura.
 - [ ] La empresa ya cuenta con una lista de materiales y tiene una compra prevista en el corto plazo: desde inmediata hasta aproximadamente 1–2 meses.
 - [ ] Una constructora obtuvo una licencia de edificación para una nueva obra durante los últimos 6 meses (conexión directa con la información pública que ofrece cada municipalidad).
 - [ ] Existen noticias relacionadas con el inicio de nuevas obras privadas por parte de pequeñas, medianas o grandes empresas.
